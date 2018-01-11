@@ -1,0 +1,9 @@
+server:
+    port: 9008
+
+spring:
+ data:
+    mongodb:
+      host: mongo.iso.apptizer.io
+      port: 27017
+      database: sales_management
